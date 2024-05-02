@@ -1,6 +1,6 @@
 # RAILWAY MANAGEMENT SYSTEM DBMS PROJECT
 
-Project Background
+Project Background:
 In today's fast-paced world, efficient transportation systems are vital for economic growth
 and social development. Railways have long been a cornerstone of transportation
 infrastructure, providing a reliable and cost-effective means of travel and freight movement.
@@ -17,7 +17,7 @@ comprehensive RMS solution that harnesses the capabilities of DBMS to revolution
 management, ultimately delivering a safer, more reliable, and customer-centric
 transportation experience.
 
-Description of the Project
+Description of the Project:
 The Railway Management System (RMS) is a comprehensive software solution designed to
 revolutionize the management of railway operations through the utilization of a sophisticated
 Database Management System (DBMS). This system aims to streamline the complexities
